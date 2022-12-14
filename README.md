@@ -5,4 +5,4 @@ GEOLOCATION_TRACKER
 How to run this application:
 
 -- Clone this repository
--- Righ click in index.html + 'Open Live Server'
+-- Right click in index.html + 'Open Live Server'
